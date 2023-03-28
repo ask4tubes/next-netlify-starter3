@@ -37,8 +37,6 @@ p {text-align:center;font-family:Helvetica, sans-serif;font-size:16px;font-style
 <p>custom design</p>
 </body>
 </html>
-
-        <center>restoration</center>
         </p>
       </main>
 
